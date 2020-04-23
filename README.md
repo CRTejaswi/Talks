@@ -4,5 +4,8 @@
 # Talks
 > A collection of talks that I have presented. Visit [here](https://crtejaswi.github.io/Talks/) to see these slides in action.
 
-- [Webscraping with Python 1](/webscraping1.html)
-  > A talk to get you started with web scraping in Python using minimal external dependencies, with a focus on solving personal problems encountered on a daily basis.
+- [01: Creating eBooks from Webpages using Python](/webscraping1.html)
+> A talk to get you started with web scraping in Python using minimal external dependencies. We will write a script that scraps online court judgments and creates Android/Kindle compatible ebooks from them.
+
+- [02: Unboxing GitHub](/02/github.html)
+> A talk for academics, with focus on basic GitHub features, and how to use them to create effective lecture notes.
