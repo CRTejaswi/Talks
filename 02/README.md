@@ -1,3 +1,7 @@
+
+__Note: This is a template README used in the talk.__<br>
+__Checkout the [slides](https://crtejaswi.github.io/Talks/02/github.html) for context.__
+
 # Lecture Title
 > Lecture notes for __Lecture Title__.
 
@@ -11,7 +15,7 @@
 # Topic1
 
 <center>
-    <img src="resources/test.png" width="1024"></img>
+    <img src="resources/test.png" width="1024">
 </center>
 
 # Topic2
