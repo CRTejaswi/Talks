@@ -103,8 +103,6 @@ c & d
 
 # Tables
 
-<center>
-
 | Step | Explanation | Example |
 | :-- | :--: | --: |
 | __clone__ | Create a local copy of the repository | `git clone https://github.com/CRTejaswi/Test.git` |
@@ -114,7 +112,6 @@ c & d
 | commit | Record file changes in local database | `git commit -m 'Updated README'` |
 | push | Update changes to GitHub | `git push origin master` |
 
-</center>
 
 # AV Content
 > Graphs/Diagrams/Simulations/Videos ...
