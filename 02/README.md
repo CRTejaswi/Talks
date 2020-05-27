@@ -47,8 +47,8 @@ c & d
 
 ```
 
-- [1: Jupyter Notebooks](https://gist.github.com/cyhsutw/d5983d166fb70ff651f027b2aa56ee4e) <br>
-- [2: The GitHub Way](https://gist.github.com/a-rodin/fef3f543412d6e1ec5b6cf55bf197d7b) <br>
+- Option1: [Jupyter Notebooks](https://gist.github.com/cyhsutw/d5983d166fb70ff651f027b2aa56ee4e) <br>
+- Option2: [The GitHub Way](https://gist.github.com/a-rodin/fef3f543412d6e1ec5b6cf55bf197d7b) <br>
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1"> <br>
 <img src="https://render.githubusercontent.com/render/math?math=z = x + y"> <br>
 <img src="https://render.githubusercontent.com/render/math?math=a^2 + b^2 = c^2"> <br>
