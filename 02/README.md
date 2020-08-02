@@ -1,6 +1,6 @@
 
 __Note: This is a template README used in the talk.__<br>
-__Checkout the [slides](https://crtejaswi.github.io/Talks/02/github.html) for context.__
+__Checkout the [slides](https://crtejaswi.github.io/talks/02/github.html) for context.__
 
 # Unboxing GitHub
 > Lecture notes for __Unboxing GitHub__.
